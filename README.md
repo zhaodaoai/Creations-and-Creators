@@ -1,10 +1,12 @@
 # 创作和创作者 Creation-and-Creators
 
+![](https://coding-net-production-pp-ci.codehub.cn/140d0c1e-e5e8-441a-ae66-59fd9c701e02.png)
+
 > 《创作和创作者》是一本永远不会写完的开源书籍，笔者（或者其他人）将会在这里采访包括但不限于软件、硬件创业者，导演，作家，画家等创作者。
 
-一直以来，笔者就非常喜欢看创作者写的关于创作的书籍 —— Linus Torvalds 的《Just for fun》，PG 的《Hackers & Painters》，Peter Thiel 的 《Zero to One》[1]，Alexis Ohanian 的《Without their permission》，Scott Adams 的 《How to Fail at Almost Everything and Still Win Big》...
+一直以来，笔者就非常喜欢阅读创作者写的关于创作的书籍 —— Linus Torvalds 的《Just for fun》，PG 的《Hackers & Painters》，Peter Thiel 的 《Zero to One》[1]，Alexis Ohanian 的《Without their permission》，Scott Adams 的 《How to Fail at Almost Everything and Still Win Big》...
 
-创作者写的自己的故事总是能够激励更多人开始自己的创作，但很多创作者并不善于写作或没有时间写作，这样导致很多顶尖的理念没有得到传播，但还好有诸如孔子的弟子，Walter Isaacson 这样的记录者，能够帮助我们记录下一个时代最伟大的思想。《Founders at work》 就是这样的一本书，这是一本 Jessica 采访各大独角兽公司的创始人/合伙人的实录，包括 Steve Wozniak (Apple), Caterina Fake (Flickr), Blake Ross  (Firefox), Max Levchin (PayPal), Sabeer Bhatia (Hotmail) 等。其中对  Gmail 的作者 Paul Buchheit 的采访，和对 PG （Jessica 的丈夫，YC 联合创始人）的采访都很精彩。Jessica 的问题比较 straightforward，被采访者也很坦诚，可以给读者带来很多启发。
+创作者记录自己的故事总是能够激励和启发更多人开始自己的创作，但很多创作者并不善于写作或没有时间写作，这样导致很多顶尖的理念没有得到传播，但还好有诸如孔子的弟子，Walter Isaacson 这样的记录者，能够帮助我们记录下一个时代最伟大的思想。《Founders at work》 就是这样的一本书，这是一本 Jessica 采访各大独角兽公司的创始人/合伙人的实录，包括 Steve Wozniak (Apple), Caterina Fake (Flickr), Blake Ross  (Firefox), Max Levchin (PayPal), Sabeer Bhatia (Hotmail) 等。其中对  Gmail 的作者 Paul Buchheit 的采访，和对 PG （Jessica 的丈夫，YC 联合创始人）的采访都很精彩。Jessica 的问题比较 straightforward，被采访者也很坦诚，可以给读者带来很多启发。
 
 但笔者并没有在中文世界里找到类似《Founders at work》的书，可以记录这个时代下中国创作者的创作历程。笔者认为这是一个不得不 fix 的 bug，于是，就有了这本未完成的书。在这本书里笔者将采访一系列中国乃至全球的创作者，这本书将会有几个特点：
 
