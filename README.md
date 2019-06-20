@@ -18,10 +18,10 @@
 
 这本书将会是动态的，这本书的文字可以被笔者或被采访者修改，但会保留 [修改历史](https://github.com/zhaodaoai/Creation-and-Creators/commits/master)；
 
-这本书将会是互动的，你可以在这里提出关于这本书或者关于某篇采访的想法，以便笔者可以更好的完善下一个采访；你也可以就一个采访进行补充提问，但我们不能保证被采访者会回答你的问题；你也可以报告 typo 以便我们修正错误。
+这本书将会是互动的，你可以在 [这里](https://github.com/zhaodaoai/Creation-and-Creators/issues/new/choose) 提出关于这本书或者关于某篇采访的想法，以便笔者可以更好的完善下一个采访；你也可以就一个采访进行补充提问，但我们不能保证被采访者会回答你的问题；你也可以报告 typo 以便我们修正错误。
 
 这本书将会是电子化的，除了面谈，笔者还可能会通过电子邮件、电话等方式进行采访，然后通过语音转文字等方式输出文字稿。
 
-让我们开始吧～ [你最期望看到的被采访者是谁？](https://github.com/zhaodaoai/Creation-and-Creators/issues/new?template=creator-request.md)
+让我们开始吧～ [你最期望看到的被采访者是谁？](https://github.com/zhaodaoai/Creation-and-Creators/issues/new/choose)
 
 [1] 相比原书，我更喜欢看未删减的 [Blake Masters 的 CS183 笔记](https://blakemasters.com/peter-thiels-cs183-startup)
